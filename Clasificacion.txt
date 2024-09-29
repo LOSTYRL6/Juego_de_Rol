@@ -1,0 +1,4 @@
+Pablo;Guerrero;50;5
+Pedro;Mago;85;3
+Pedro;Mago;0;0
+Jose;Guerrero;50;5
